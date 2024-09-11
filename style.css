@@ -1,0 +1,11 @@
+.ele{
+    color: aliceblue;
+    background-color: rebeccapurple;
+    border: 2px solid #0000;
+}
+.listStyle{
+    display: inline;
+}
+.tableStyle{
+    border: 2px solid black;
+}
